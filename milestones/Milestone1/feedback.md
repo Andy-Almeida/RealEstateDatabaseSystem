@@ -1,0 +1,1 @@
+# In this file, you´ll find feedback for every checkpoint that is graded. It is the responsability of the student to read-revise the feedback provided by the grader or the instructor since checkpoints are comulative and totally based on the work done on previous ones.
