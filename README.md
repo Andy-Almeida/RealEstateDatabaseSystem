@@ -7,14 +7,14 @@ In the following table, replace the instructor's info with your student id, full
 
 |        Student ID          |     Student Full Name      |        SFSU Email          |
 | ---------------------------| ---------------------------| ---------------------------|
-| Write your student id here | Write your full name here  | Write your SFSU email here |
+|        922170012           |       Andy Almeida         |     aalmeida1@sfsu.edu     |
 
 
 A random database topic will be assigned by the instructor to all the students. As soon as it is assigned, fill out the following table with your topic´s info.
 
-|       Topic Description        |              Date Assigned                 |
-| ------------------------------ | ------------------------------------------ |
-| Write your database topic here | Write the date the topic was assigned here |
+|           Topic Description            |       Date Assigned        |
+| -------------------------------------- | -------------------------- |
+| Real Estate Database Management System |        Feb 07 2023         |
 
 
 All the work in this course is divided into two milestones, each of them has several checkpoints. Checkpoints are comulative. That's it, all checkpoints 
