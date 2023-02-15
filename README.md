@@ -23,7 +23,7 @@ All the work in this course is divided into two milestones, each of them has sev
 
 | Checkpoints |                      Description                      |          TODO/DONE         |
 | ----------- | ----------------------------------------------------- | -------------------------- |
-|     1       | M1: Product Summary                                   |            TODO            |
+|     1       | M1: Product Summary                                   |            DONE            |
 |     2       | M1: Database Requirements                             |            TODO            |
 |     3       | M1: Entity Relationship Diagram (ERD)                 |            TODO            |
 |     4       | M1: DB Entities Description                           |            TODO            |
