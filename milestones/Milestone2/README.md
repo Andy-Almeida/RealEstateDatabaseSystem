@@ -176,7 +176,7 @@ Once this checkpoint is completed, please fill out the following table with the 
 
 Once the checkpoint is submitted by its deadline, the instructor will use the above links provided by the student to grade this checkpoint. The instructor will put the bot online on Replit, and will join the Discord server to make sure that the bot is online and connected to the remote database.
 
-## Checkpoint VIII: Data Access Object Modeling (15 points)
+## Checkpoint IX: Data Access Object Modeling (15 points)
 
 In this checkpoint students will implement all the backend needed to solve their business requirements from milestone 1. The backend component of this bot will be implemented with SQL, the student's favorite programming language and Database Access Object Modeling techniques which are needed to optimize the performance of your database system. Please refer to your class notes and slides for more details about this topic. 
 
