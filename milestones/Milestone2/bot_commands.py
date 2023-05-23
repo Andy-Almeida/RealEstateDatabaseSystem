@@ -1,0 +1,29 @@
+#This file contains all the constants for the commands that can be called by the user
+
+ALL_USERS = '!users' #Display all users
+SELECTED_USER = '!user' #Display all information on a specified user
+ALL_PROPERTIES = '!properties' #Display all properties
+SELECTED_PROPERTY = '!property' #Display all information on a specified property
+ALL_APPLICATIONS = '!applications' #Display all applications
+ALL_FIRMS = '!firms' #Display all firms
+ALL_ECOMMERCESITES = '!ecommercesites' #Display all ECommerceSites 
+FIND_USER_SCREENNAME = '!user-screenname' #Find a user given their profile screenname
+ALL_USERS_NO_ACCOUNT = '!users-no-account' #Find all users that have not filled out their account information
+USERS_MORE_X_PROPERTIES = '!users-more-than-x-properties' #Find all users that have more than <x> properties listed
+USER_APPLICATIONS = '!user-x-applications' #For a selected user, Find all applications that are sent to a property
+USER_BEDROOMS_UNDER_MONTHLY = '!user-x-bedrooms-under-x-monthly' #For a selected user, find the properties that they own that have <x> bedrooms and the monthly price range is below <x> monthly cost
+PROPERTIES_BEDROOMS_BATHROOMS = '!properties-x-bedrooms-x-bathrooms' #Find properties that have <x> bedrooms and <x> bathrooms
+PROPERTIES_PETS_LAUNDRY = '!properties-allowspets-haslaundry' #Find properties in a given city that allows pets and has laundry in-unit
+PROPERTIES_FIRM = '!properties-firm' #Find properties that are linked to <x> firm
+PROPERTIES_STORIES = '!properties-x-stories' #Find properties that have <x> stories
+PROPERTIES_SPACE_BETWEEN_YEARLY = '!properties-x-space-and-between-x-and-x-yearlyprice' #Find properties that exceed <x> livable area and is between <x> and <x> yearly price
+PROPERTIES_MASTERBEDROOM = '!properties-masterbedroom-bigger-than-x' #Find properties that have a masterbedroom that is bigger than <x> area
+PROPERTIES_HOAFEES_MONTHLY = '!properties-lessthan-x-hoa-and-morethan-x-monthly' #Find properties that have less than <x> hoafees but more than <x> monthlycost
+PROPERTY_SAVED_AND_APPLIED = '!property-saved-and-applied' #Given a property, find the users that have saved it and sent an application
+PROPERTY_SAME_ROOMS_CHEAPER = '!property-similar-room-count-but-cheaper' #Given a property, find properties that have the same amount of rooms but cost less per month
+PROPERTY_SAME_USER = '!property-same-user' #Given a property, find other properties listed by the same user
+PROPERTY_SAME_ZIPCODE = '!property-same-zipcode' #Given a property, find all properties in the same zipcode
+PROPERTY_SAME_STATE_DIF_ZIPCODE = '!property-same-state-different-zipcode' #Given a property, find all properties in the same state but not in the same zipcode
+PROPERTY_CHEAPER_SAME_CITY = '!property-cost-less-same-city' #Given a property, find all properties that cost less but is in the same city
+ECOM_ADS = '!ecommercesites-ads' #Find all advertisements that that are linked to an External E-Commerce Website
+APPLICATIONS_LASTNAME = '!applications-by-lastname' #Find all applications made by users with <x> lastname
